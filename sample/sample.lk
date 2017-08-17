@@ -1,0 +1,53 @@
+mi veu drapeau = vre
+
+pou i dan 0 ziska 100
+  dit a li "Hello world ! " ek i
+
+  si i le = 99 ben
+    dit a li "La variable drapeau est : " ek drapeau
+
+    drapeau = menter
+
+    dit a li "La variable drapeau est : " ek drapeau
+  le fini
+le fini
+
+mi veu e = 500
+
+tanqu' drapeau le pa = vre ben
+  e enlev 10
+
+  dit a li "e le egal " ek e
+
+  si e le = 300 ben
+    drapeau = vre
+  le fini
+le fini
+
+case a()
+  sort 80
+le fini
+
+zobjet A
+	
+	debut()
+		dit a li "Constructor"
+	le fini
+
+le fini
+
+
+zobjet B  ti A
+	
+	debut()
+		siper
+		dit a li "Constructor of B"
+	le fini
+
+le fini
+
+mi veu c = apele a()
+
+dit a li "c le egal " ek c
+
+mi veu var = B.nouvo

@@ -1,4 +1,4 @@
-# Language-Lakour
+# Language Lakour
 An esotheric minimal and badly designed language
 
 # What's "Lakour ?"
